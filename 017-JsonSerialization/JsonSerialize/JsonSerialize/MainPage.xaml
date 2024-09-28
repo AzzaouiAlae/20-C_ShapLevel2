@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JsonSerialize.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" RowSpacing="10" ColumnSpacing="10">
+                <Label Text="Name : " VerticalOptions="Center" />
+                <Entry x:Name="txt_Name" Grid.Column="1" HorizontalTextAlignment="Center"/>
+
+                <Label Text="Age : " VerticalOptions="Center" Grid.Row="1"/>
+                <Entry x:Name="txt_Age" Grid.Column="1" Grid.Row="1" TextChanged="txt_Age_TextChanged" HorizontalTextAlignment="Center"/>
+            </Grid>
+
+            <Button x:Name="btn_Save" Text="Save" Clicked="btn_Save_Clicked"/>
+            <Button x:Name="btn_Load" Text="Load" Clicked="btn_Load_Clicked"/>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

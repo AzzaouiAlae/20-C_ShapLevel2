@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HashingExample.LoginPage"
+             Title="LoginPage">
+    <VerticalStackLayout Padding="30,20">
+
+        <Label Text="LogIn" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+
+        <Grid RowDefinitions="*,*,*" ColumnDefinitions="Auto,*" RowSpacing="10" ColumnSpacing="10">
+            <Label Text="Username :" VerticalOptions="Center"/>
+            <Entry Grid.Column="1" x:Name="txt_Username" />
+
+            <Label Text="Password :" VerticalOptions="Center" Grid.Row="1"/>
+            <Entry Grid.Column="1" x:Name="txt_Password" Grid.Row="1"/>
+        </Grid>
+
+        <Button Text="LogIn" Clicked="Button_Clicked"/>
+        <Label FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" x:Name="lbl_Result"/>
+
+    </VerticalStackLayout>
+</ContentPage>

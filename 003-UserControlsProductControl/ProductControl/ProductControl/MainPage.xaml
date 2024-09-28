@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProductControl.MainPage"
+             xmlns:local="clr-namespace:ProductControl">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <ScrollView Orientation="Horizontal">
+                <HorizontalStackLayout Spacing="40">
+                    <local:ctrlProduct ProductName="Product 1" Price="$10" Decription="Test of Control product" imageSource="dotnet_bot.png"/>
+                    <local:ctrlProduct ProductName="Product 2" Price="$20" Decription="Test 2 " imageSource="productt.png"/>
+                    <local:ctrlProduct ProductName="Product 3" Price="$30" Decription="Test 3 " imageSource="producttt.png"/>
+                    <local:ctrlProduct ProductName="Product 4" Price="$40" Decription="Test 4 " imageSource="productttt.png"/>
+                </HorizontalStackLayout>
+            </ScrollView>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

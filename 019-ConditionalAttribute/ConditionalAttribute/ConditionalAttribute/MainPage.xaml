@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ConditionalAttribute.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+
+            <Grid ColumnDefinitions="Auto,*" RowDefinitions="*,*,*,*" ColumnSpacing="10" RowSpacing="10">
+                <Label Text="Normal Func : " VerticalOptions="Center"/>
+                <Entry x:Name="txt_NormalFunc" Grid.Column="1"/>
+
+                <Label Text="Debug Func : " Grid.Row="1" VerticalOptions="Center"/>
+                <Entry x:Name="txt_DebugFunc" Grid.Column="1" Grid.Row="1"/>
+
+                <Label Text="Test Func : " Grid.Row="1"  VerticalOptions="Center"/>
+                <Entry x:Name="txt_TestFunc" Grid.Column="1" Grid.Row="1"/>
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

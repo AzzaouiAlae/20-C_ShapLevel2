@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalculatorDelegation.MainPage"
+             Loaded="ContentPage_Loaded">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Margin="30" Spacing="10">
+            
+            <Grid RowDefinitions="*,*,*,*" ColumnDefinitions="Auto,*,Auto" ColumnSpacing="10" RowSpacing="10">                
+                <Label Text="Addition : " VerticalOptions="Center"/>
+                <Entry x:Name="txt_Addition" TextChanged="txt_TextChanged" Grid.Column="1" HorizontalTextAlignment="Center"/>
+                <Button x:Name="btn_Addition" Text="Add" Clicked="btn_Addition_Clicked" Grid.Column="2"/>
+
+                <Label Text="Subtraction : " Grid.Row="1" VerticalOptions="Center"/>
+                <Entry x:Name="txt_Subtraction" TextChanged="txt_TextChanged" Grid.Column="1" Grid.Row="1" HorizontalTextAlignment="Center"/>
+                <Button x:Name="btn_Subtraction" Text="Sub" Clicked="btn_Subtraction_Clicked"  Grid.Column="2" Grid.Row="1"/>
+
+                <Label Text="Multiplication : " Grid.Row="2" VerticalOptions="Center"/>
+                <Entry x:Name="txt_Multiplication" TextChanged="txt_TextChanged" Grid.Column="1" Grid.Row="2" HorizontalTextAlignment="Center"/>
+                <Button x:Name="btn_Multiplication" Text="Multiple" Clicked="btn_Multiplication_Clicked"  Grid.Column="2" Grid.Row="2"/>
+
+                <Label Text="Division : " Grid.Row="3" VerticalOptions="Center"/>
+                <Entry x:Name="txt_Division" TextChanged="txt_TextChanged" Grid.Column="1" Grid.Row="3" HorizontalTextAlignment="Center"/>
+                <Button x:Name="btn_Division" Text="Divide" Clicked="btn_Division_Clicked"  Grid.Column="2" Grid.Row="3"/>
+            </Grid>
+            
+            <Button Clicked="btn_Result_Clicked"  x:Name="btn_Result" Text="Result"/>
+            <Label x:Name="lbl_Result" HorizontalOptions="Center"/>
+            <Label x:Name="lbl_Result2" HorizontalOptions="Center" TextColor="Red"/>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TypClas.MainPage" Loaded="ContentPage_Loaded">
+
+    
+    <VerticalStackLayout
+        Padding="30,20"
+        Spacing="25">
+        <Label Text="Type Information :"/>
+        <Grid RowDefinitions="*,*,*" ColumnDefinitions="Auto,*">
+            <Label Text="Name : " VerticalOptions="Center"/>
+            <Entry Grid.Column="1" x:Name="txt_Name" HorizontalTextAlignment="Center"/>
+
+            <Label Text="Full Name : " Grid.Row="1" VerticalOptions="Center"/>
+            <Entry Grid.Column="1" Grid.Row="1" x:Name="txt_FullName" HorizontalTextAlignment="Center"/>
+
+            <Label Text="Is Class : " Grid.Row="2" VerticalOptions="Center"/>
+            <Entry Grid.Column="1" Grid.Row="2" x:Name="txt_isClass" HorizontalTextAlignment="Center"/>
+        </Grid>
+    </VerticalStackLayout>
+    
+
+</ContentPage>

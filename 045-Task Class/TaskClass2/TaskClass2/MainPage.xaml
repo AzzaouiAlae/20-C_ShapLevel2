@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskClass2.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="15">
+
+            <Grid RowDefinitions="Auto,*,*,*">
+                <VerticalStackLayout>
+                    <Button Text="Start" Clicked="Button_Clicked"/>
+                    <Label Text="lbl1" x:Name="lbl1" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                    <Label Text="lbl2" x:Name="lbl2" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                    <Label Text="lbl3" x:Name="lbl3" HorizontalOptions="Center" FontAttributes="Bold" FontSize="20"/>
+                </VerticalStackLayout>
+
+                <WebView x:Name="w1" HeightRequest="300" Grid.Row="1">
+                    <WebView.Source>
+                        <HtmlWebViewSource x:Name="html1"/>
+                    </WebView.Source>
+                </WebView>
+
+                <WebView x:Name="w2" Grid.Row="2" HeightRequest="300">
+                    <WebView.Source>
+                        <HtmlWebViewSource x:Name="html2"/>
+                    </WebView.Source>
+                </WebView>
+
+                <WebView x:Name="w3" Grid.Row="3" HeightRequest="300">
+                    <WebView.Source>
+                        <HtmlWebViewSource x:Name="html3"/>
+                    </WebView.Source>
+                </WebView>
+
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

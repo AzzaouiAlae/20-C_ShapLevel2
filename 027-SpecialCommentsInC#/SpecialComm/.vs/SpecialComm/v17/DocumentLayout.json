@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|d:\\source\\20-c# level 2\\027-specialcommentsinc#\\specialcomm\\specialcomm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|solutionrelative:specialcomm\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|d:\\source\\20-c# level 2\\027-specialcommentsinc#\\specialcomm\\specialcomm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|solutionrelative:specialcomm\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|d:\\source\\20-c# level 2\\027-specialcommentsinc#\\specialcomm\\specialcomm\\myclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E196853-A4C3-43EE-AB81-6BD587185977}|SpecialComm\\SpecialComm.csproj|solutionrelative:specialcomm\\myclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyClass1.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MyClass1.cs",
+              "RelativeDocumentMoniker": "SpecialComm\\MyClass1.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MyClass1.cs",
+              "RelativeToolTip": "SpecialComm\\MyClass1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:11:09.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SpecialComm\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MainPage.xaml.cs",
+              "RelativeToolTip": "SpecialComm\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:10:21.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SpecialComm\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\027-SpecialCommentsInC#\\SpecialComm\\SpecialComm\\MainPage.xaml",
+              "RelativeToolTip": "SpecialComm\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T12:10:20.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

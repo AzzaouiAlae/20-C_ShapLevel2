@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TemperatureChangeEvent.MyDetailsPage"
+             Title="MyDetailsPage">
+    <VerticalStackLayout Padding="25" Spacing="7">
+        <Label 
+            Text="Temperture"
+            VerticalOptions="Center"/>        
+        <Entry x:Name="txt_Temp" HorizontalTextAlignment="Center"/>
+        <Button Text="Set Temperture" x:Name="btn_SetTemp" Clicked="btn_SetTemp_Clicked_1"/>
+
+    </VerticalStackLayout>
+</ContentPage>

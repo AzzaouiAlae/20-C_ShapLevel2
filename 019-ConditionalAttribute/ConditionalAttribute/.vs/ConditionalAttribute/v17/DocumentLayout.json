@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|d:\\source\\20-c# level 2\\019-conditionalattribute\\conditionalattribute\\conditionalattribute\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|solutionrelative:conditionalattribute\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|d:\\source\\20-c# level 2\\019-conditionalattribute\\conditionalattribute\\conditionalattribute\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|solutionrelative:conditionalattribute\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|d:\\source\\20-c# level 2\\019-conditionalattribute\\conditionalattribute\\conditionalattribute\\conditionalattribute.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|solutionrelative:conditionalattribute\\conditionalattribute.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|d:\\source\\20-c# level 2\\019-conditionalattribute\\conditionalattribute\\conditionalattribute\\globale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11BB73E8-E0CE-4B96-8B2E-10F01B8CFA6A}|ConditionalAttribute\\ConditionalAttribute.csproj|solutionrelative:conditionalattribute\\globale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConditionalAttribute",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute.csproj",
+              "RelativeDocumentMoniker": "ConditionalAttribute\\ConditionalAttribute.csproj",
+              "ToolTip": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute.csproj",
+              "RelativeToolTip": "ConditionalAttribute\\ConditionalAttribute.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T21:44:25.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Globale.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\Globale.cs",
+              "RelativeDocumentMoniker": "ConditionalAttribute\\Globale.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\Globale.cs",
+              "RelativeToolTip": "ConditionalAttribute\\Globale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T21:36:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ConditionalAttribute\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\MainPage.xaml",
+              "RelativeToolTip": "ConditionalAttribute\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-15T21:03:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ConditionalAttribute\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\019-ConditionalAttribute\\ConditionalAttribute\\ConditionalAttribute\\MainPage.xaml.cs",
+              "RelativeToolTip": "ConditionalAttribute\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T21:03:33.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

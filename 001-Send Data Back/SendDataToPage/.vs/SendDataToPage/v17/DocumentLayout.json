@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|d:\\source\\20-c# level 2\\001-send data back\\senddatatopage\\senddatatopage\\personcardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|solutionrelative:senddatatopage\\personcardpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|d:\\source\\20-c# level 2\\001-send data back\\senddatatopage\\senddatatopage\\personcardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|solutionrelative:senddatatopage\\personcardpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|d:\\source\\20-c# level 2\\001-send data back\\senddatatopage\\senddatatopage\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|solutionrelative:senddatatopage\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|d:\\source\\20-c# level 2\\001-send data back\\senddatatopage\\senddatatopage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C0273EF-8AE0-4E1D-848E-A157DD08FFC4}|SendDataToPage\\SendDataToPage.csproj|solutionrelative:senddatatopage\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonCardPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\PersonCardPage.xaml.cs",
+              "RelativeDocumentMoniker": "SendDataToPage\\PersonCardPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\PersonCardPage.xaml.cs",
+              "RelativeToolTip": "SendDataToPage\\PersonCardPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T11:36:32.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonCardPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\PersonCardPage.xaml",
+              "RelativeDocumentMoniker": "SendDataToPage\\PersonCardPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\PersonCardPage.xaml",
+              "RelativeToolTip": "SendDataToPage\\PersonCardPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T11:36:16.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SendDataToPage\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\MainPage.xaml.cs",
+              "RelativeToolTip": "SendDataToPage\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T11:29:25.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SendDataToPage\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\001-Send Data Back\\SendDataToPage\\SendDataToPage\\MainPage.xaml",
+              "RelativeToolTip": "SendDataToPage\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T11:29:24.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

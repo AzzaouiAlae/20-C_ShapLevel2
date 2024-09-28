@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProductControl.CtrlProduct">
+
+
+    <Frame CornerRadius="20" Padding="15" VerticalOptions="Start" HorizontalOptions="Start">
+        <VerticalStackLayout Spacing="7">
+
+            <ImageButton MaximumHeightRequest="120" MaximumWidthRequest="120" x:Name="Image_Product" Source="dotnet_bot.png" Clicked="Image_Product_Clicked"/>
+            <Label FontSize="12" FontAttributes="Bold" x:Name="lbl_Name" Text="Product 1"/>
+            
+            <Grid ColumnDefinitions="*,*">
+                <Label FontSize="15" FontAttributes="Bold" x:Name="lbl_Price" VerticalOptions="Center" Text="10$" />
+                <Button BackgroundColor="Transparent" Text="❤️" Grid.Column="1" FontSize="25" Padding="-1" x:Name="btn_Like" Clicked="btn_Like_Clicked"/>
+            </Grid>
+            
+        </VerticalStackLayout>
+    </Frame>
+    
+    
+</ContentView>

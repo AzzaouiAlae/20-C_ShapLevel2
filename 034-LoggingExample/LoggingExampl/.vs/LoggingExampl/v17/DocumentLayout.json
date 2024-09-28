@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\034-LoggingExample\\LoggingExampl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40931D60-5B29-4D24-86F9-7684D20E0F1F}|LoggingExampl\\LoggingExampl.csproj|d:\\source\\20-c# level 2\\034-loggingexample\\loggingexampl\\loggingexampl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40931D60-5B29-4D24-86F9-7684D20E0F1F}|LoggingExampl\\LoggingExampl.csproj|solutionrelative:loggingexampl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\034-LoggingExample\\LoggingExampl\\LoggingExampl\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingExampl\\Program.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\034-LoggingExample\\LoggingExampl\\LoggingExampl\\Program.cs",
+              "RelativeToolTip": "LoggingExampl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T17:19:22.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

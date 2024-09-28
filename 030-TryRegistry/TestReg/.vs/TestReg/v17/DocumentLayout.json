@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\030-TryRegistry\\TestReg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C770DD5A-F8B3-4D11-B8D1-4406715519D8}|TestReg\\TestReg.csproj|d:\\source\\20-c# level 2\\030-tryregistry\\testreg\\testreg\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C770DD5A-F8B3-4D11-B8D1-4406715519D8}|TestReg\\TestReg.csproj|solutionrelative:testreg\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C770DD5A-F8B3-4D11-B8D1-4406715519D8}|TestReg\\TestReg.csproj|d:\\source\\20-c# level 2\\030-tryregistry\\testreg\\testreg\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C770DD5A-F8B3-4D11-B8D1-4406715519D8}|TestReg\\TestReg.csproj|solutionrelative:testreg\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\030-TryRegistry\\TestReg\\TestReg\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TestReg\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\030-TryRegistry\\TestReg\\TestReg\\MainPage.xaml.cs",
+              "RelativeToolTip": "TestReg\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T17:20:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\030-TryRegistry\\TestReg\\TestReg\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TestReg\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\030-TryRegistry\\TestReg\\TestReg\\MainPage.xaml",
+              "RelativeToolTip": "TestReg\\MainPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-19T17:20:16.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

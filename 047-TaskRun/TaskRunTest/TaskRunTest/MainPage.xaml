@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskRunTest.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Grid RowDefinitions="Auto,*,*">
+
+                <VerticalStackLayout>
+                    <Button Text="Start" x:Name="btn_Start" Clicked="btn_Start_Clicked"/>
+                    <Label x:Name="lbl_ProgAvices"/>
+                    <Label x:Name="lbl_Google"/>                    
+                </VerticalStackLayout>
+
+                <WebView HeightRequest="300" Grid.Row="1">
+                    <WebView.Source>
+                        <HtmlWebViewSource x:Name="myHtmlSource1"/>
+                    </WebView.Source>
+                </WebView>
+
+                <WebView HeightRequest="300" Grid.Row="2">
+                    <WebView.Source>
+                        <HtmlWebViewSource x:Name="myHtmlSource2"/>
+                    </WebView.Source>
+                </WebView>
+
+            </Grid>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

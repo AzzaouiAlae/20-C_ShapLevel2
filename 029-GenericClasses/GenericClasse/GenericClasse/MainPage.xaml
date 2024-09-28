@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GenericClasse.MainPage"
+             Loaded="ContentPage_Loaded">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*">
+                <Label Text="Name : " VerticalOptions="Center"/>
+                <Entry x:Name="txt1" Grid.Column="1"/>
+
+                <Label Text="Age : " Grid.Row="1" VerticalOptions="Center"/>
+                <Entry x:Name="txt2" Grid.Row="1" Grid.Column="1"/>
+
+            </Grid>
+            
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProductControl.ctrlProduct">
+
+    <Border Stroke="Black" StrokeThickness="1" Padding="10">
+        <VerticalStackLayout HorizontalOptions="Start" WidthRequest="120" >
+            <AbsoluteLayout WidthRequest="120">
+                <Button Text="❤️" Padding="-30" FontSize="25" BackgroundColor="Transparent" ZIndex="1" AbsoluteLayout.LayoutBounds="1,0" AbsoluteLayout.LayoutFlags="PositionProportional"/>
+                <Image Grid.ColumnSpan="2" x:Name="ProductImg" Source="product.png" WidthRequest="100" HorizontalOptions="Start" VerticalOptions="Start"/>
+            </AbsoluteLayout>
+
+            <Label x:Name ="lbl_ProductName" Text="Product Name :" FontSize="12" FontAttributes="Bold"/>
+            <Label x:Name ="lbl_Price" Text="$100" HorizontalOptions="End" FontSize="16" FontAttributes="Bold"/>
+            <Label x:Name ="lbl_Decription" Text="Decription :" LineBreakMode="WordWrap" FontSize="12"/>
+        </VerticalStackLayout>
+    </Border>
+</ContentView>

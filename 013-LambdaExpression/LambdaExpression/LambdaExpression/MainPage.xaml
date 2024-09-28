@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LambdaExpression.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <Entry x:Name="txt_Num1"/>
+            <Entry x:Name="txt_Num2"/>
+            <Button x:Name="btn_Calc" Text="Calculate" Clicked="btn_Calc_Clicked"/>
+            <Label x:Name="lbl_Add" Text="Add Result : "/>
+            <Label x:Name="lbl_Subtract" Text="Subtract Result : "/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

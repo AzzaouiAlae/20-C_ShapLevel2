@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OrderEvent.AddProductPage"
+             Title="New Product">
+    
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label 
+            Text="Add New Product"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        
+        <Grid RowDefinitions="*,*,*" ColumnDefinitions="Auto,*" ColumnSpacing="10" RowSpacing="10">
+
+            <Label Text="Order ID :" />
+            <Entry x:Name="txt_OrderID" Grid.Column="1"/>
+
+            <Label Text="Total Price :" Grid.Row="1"/>
+            <Entry x:Name="txt_TotalPrice" Grid.Column="1" Grid.Row="1"/>
+
+            <Label Text="Product Name :" Grid.Row="2"/>
+            <Entry x:Name="txt_ProductName" Grid.Column="1" Grid.Row="2"/>
+
+        </Grid>
+        
+        <Button x:Name="btn_AddProduct" Text="Add New Product" Clicked="btn_AddProduct_Clicked"/>
+        
+    </VerticalStackLayout>
+    
+    
+</ContentPage>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewsPublisherSubscriberExample.ctrlDisplay">
+    
+    <VerticalStackLayout Margin="15" >
+        <Frame MaximumWidthRequest="230" MaximumHeightRequest="150"  HorizontalOptions="Start">
+            <ScrollView Padding="3" Orientation="Vertical">
+                <VerticalStackLayout >
+                    <Label Text="Display News" HorizontalOptions="Center" Margin="0,0,0,10"/>
+                    <Label x:Name="lbl_Title" HorizontalOptions="Center" />
+                    <Label x:Name="lbl_Contant" HorizontalOptions="Start" LineBreakMode="WordWrap"/>
+                </VerticalStackLayout>
+            </ScrollView>
+        </Frame>
+    </VerticalStackLayout>
+    
+    
+    
+</ContentView>

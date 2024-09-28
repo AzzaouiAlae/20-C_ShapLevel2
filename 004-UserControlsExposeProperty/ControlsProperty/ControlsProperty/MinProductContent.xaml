@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsProperty.MinProductContent">
+
+    <Frame Padding="10" CornerRadius="20" >
+        <VerticalStackLayout>
+            
+            <Image MaximumWidthRequest="100" MaximumHeightRequest="100" x:Name="ProductImg"/>
+            <Label x:Name="lbl_Name"/>
+            <AbsoluteLayout MinimumWidthRequest="100" VerticalOptions="End">
+
+                <Label x:Name="lbl_Price" 
+                       AbsoluteLayout.LayoutFlags="PositionProportional" 
+                       AbsoluteLayout.LayoutBounds="0,.5" 
+                       FontSize="20"
+                       FontAttributes="Bold"/>
+                
+                <Button Text="+" 
+                        BackgroundColor="Transparent" 
+                        AbsoluteLayout.LayoutFlags="PositionProportional" 
+                        AbsoluteLayout.LayoutBounds="1,0" 
+                        Padding="-20" 
+                        FontSize="25" 
+                        FontAttributes="Bold"
+                        x:Name="btn_AddToCard"
+                        Clicked="btn_AddToCard_Clicked"
+                        TextColor="Black"
+                        BorderColor="Black"
+                        BorderWidth=".5"/>
+                
+            </AbsoluteLayout>
+            
+        </VerticalStackLayout>
+    </Frame>
+</ContentView>

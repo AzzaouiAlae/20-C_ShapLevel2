@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|d:\\source\\20-c# level 2\\029-genericclasses\\genericclasse\\genericclasse\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|solutionrelative:genericclasse\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|d:\\source\\20-c# level 2\\029-genericclasses\\genericclasse\\genericclasse\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|solutionrelative:genericclasse\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|d:\\source\\20-c# level 2\\029-genericclasses\\genericclasse\\genericclasse\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5340E534-5542-4CE6-8106-8D8449BA38A2}|GenericClasse\\GenericClasse.csproj|solutionrelative:genericclasse\\genericbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericBox.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\GenericBox.cs",
+              "RelativeDocumentMoniker": "GenericClasse\\GenericBox.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\GenericBox.cs",
+              "RelativeToolTip": "GenericClasse\\GenericBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:10:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "GenericClasse\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\MainPage.xaml.cs",
+              "RelativeToolTip": "GenericClasse\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T18:08:05.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GenericClasse\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\029-GenericClasses\\GenericClasse\\GenericClasse\\MainPage.xaml",
+              "RelativeToolTip": "GenericClasse\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-18T18:08:04.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

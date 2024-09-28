@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\050-Parallel.ForEach\\ParallelForEach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01952018-9833-4A1B-909A-356A613ECF19}|ParallelForEach\\ParallelForEach.csproj|d:\\source\\20-c# level 2\\050-parallel.foreach\\parallelforeach\\parallelforeach\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{01952018-9833-4A1B-909A-356A613ECF19}|ParallelForEach\\ParallelForEach.csproj|solutionrelative:parallelforeach\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01952018-9833-4A1B-909A-356A613ECF19}|ParallelForEach\\ParallelForEach.csproj|d:\\source\\20-c# level 2\\050-parallel.foreach\\parallelforeach\\parallelforeach\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01952018-9833-4A1B-909A-356A613ECF19}|ParallelForEach\\ParallelForEach.csproj|solutionrelative:parallelforeach\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\050-Parallel.ForEach\\ParallelForEach\\ParallelForEach\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ParallelForEach\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\050-Parallel.ForEach\\ParallelForEach\\ParallelForEach\\MainPage.xaml",
+              "RelativeToolTip": "ParallelForEach\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T07:41:17.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\050-Parallel.ForEach\\ParallelForEach\\ParallelForEach\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ParallelForEach\\App.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\050-Parallel.ForEach\\ParallelForEach\\ParallelForEach\\App.xaml.cs",
+              "RelativeToolTip": "ParallelForEach\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:41:00.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

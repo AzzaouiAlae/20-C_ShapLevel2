@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AttribForValid.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" RowSpacing="10" ColumnSpacing="10">
+                <Label Text="Name : "/>
+                <Entry Grid.Column="1" x:Name="txt_Name"/>
+
+                <Label Text="Age : " Grid.Row="1"/>
+                <Entry Grid.Column="1" x:Name="txt_Age" TextChanged="txt_Age_TextChanged" Grid.Row="1"/>
+            </Grid>
+            <Button x:Name="btn" Clicked="btn_Clicked" Text="Test Person"/>
+            <Label x:Name="lbl_Result" FontSize="20"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

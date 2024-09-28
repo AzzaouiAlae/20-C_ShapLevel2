@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskClassWithEvent.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Button x:Name="btn" Text="Start"  Clicked="btn_Clicked" HorizontalOptions="Center"/>
+            <Label x:Name="lbl_Counter" Text="Counter 0" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label Text="Name : " x:Name="lbl_Name" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+            <Label Text="Age : " x:Name="lbl_Age" HorizontalOptions="Center" FontSize="20" FontAttributes="Bold"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

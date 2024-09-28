@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|d:\\source\\20-c# level 2\\042-parameterizedthread\\parameterizedthread\\parameterizedthread\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|solutionrelative:parameterizedthread\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|d:\\source\\20-c# level 2\\042-parameterizedthread\\parameterizedthread\\parameterizedthread\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|solutionrelative:parameterizedthread\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|d:\\source\\20-c# level 2\\042-parameterizedthread\\parameterizedthread\\parameterizedthread\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD75B93-7309-4FDC-94B8-66DF43B86C96}|ParameterizedThread\\ParameterizedThread.csproj|solutionrelative:parameterizedthread\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ParameterizedThread\\App.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\App.xaml.cs",
+              "RelativeToolTip": "ParameterizedThread\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T17:03:10.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ParameterizedThread\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\MainPage.xaml.cs",
+              "RelativeToolTip": "ParameterizedThread\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T16:58:14.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ParameterizedThread\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\042-ParameterizedThread\\ParameterizedThread\\ParameterizedThread\\MainPage.xaml",
+              "RelativeToolTip": "ParameterizedThread\\MainPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-23T16:57:38.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

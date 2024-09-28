@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|d:\\source\\20-c# level 2\\040-operator overloading example\\operatoroverloading\\operatoroverloading\\clspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\clspoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|d:\\source\\20-c# level 2\\040-operator overloading example\\operatoroverloading\\operatoroverloading\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|d:\\source\\20-c# level 2\\040-operator overloading example\\operatoroverloading\\operatoroverloading\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88FE3D7F-7A63-407E-AFE7-00D4AF182E60}|OperatorOverloading\\OperatorOverloading.csproj|solutionrelative:operatoroverloading\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsPoint.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\clsPoint.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\clsPoint.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\clsPoint.cs",
+              "RelativeToolTip": "OperatorOverloading\\clsPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:44:50.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "OperatorOverloading\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\MainPage.xaml.cs",
+              "RelativeToolTip": "OperatorOverloading\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:29:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\MainPage.xaml",
+              "RelativeDocumentMoniker": "OperatorOverloading\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\040-Operator Overloading Example\\OperatorOverloading\\OperatorOverloading\\MainPage.xaml",
+              "RelativeToolTip": "OperatorOverloading\\MainPage.xaml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-23T06:29:24.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

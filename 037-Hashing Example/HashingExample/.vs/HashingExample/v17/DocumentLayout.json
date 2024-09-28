@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|d:\\source\\20-c# level 2\\037-hashing example\\hashingexample\\hashingexample\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|solutionrelative:hashingexample\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|d:\\source\\20-c# level 2\\037-hashing example\\hashingexample\\hashingexample\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|solutionrelative:hashingexample\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|d:\\source\\20-c# level 2\\037-hashing example\\hashingexample\\hashingexample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|solutionrelative:hashingexample\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|d:\\source\\20-c# level 2\\037-hashing example\\hashingexample\\hashingexample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{231F9963-B6DC-4EB9-8E9F-B90C21C988E5}|HashingExample\\HashingExample.csproj|solutionrelative:hashingexample\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "HashingExample\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\LoginPage.xaml.cs",
+              "RelativeToolTip": "HashingExample\\LoginPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T07:57:47.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "HashingExample\\LoginPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\LoginPage.xaml",
+              "RelativeToolTip": "HashingExample\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-22T07:56:27.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HashingExample\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\MainPage.xaml",
+              "RelativeToolTip": "HashingExample\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-21T21:28:44.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HashingExample\\MainPage.xaml.cs",
+              "ToolTip": "D:\\source\\20-C# Level 2\\037-Hashing Example\\HashingExample\\HashingExample\\MainPage.xaml.cs",
+              "RelativeToolTip": "HashingExample\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:28:46.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

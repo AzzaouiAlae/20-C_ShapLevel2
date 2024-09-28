@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NewsPublisherSubscriberExample.MyDetailsPage"
+             Title="MyDetailsPage">
+    
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="Publish News" HorizontalOptions="Center"/>
+        
+        <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" ColumnSpacing="7" RowSpacing="7">            
+            <Label Text="Title : " HorizontalOptions="End" VerticalOptions="Center"/>
+            <Entry x:Name="txt_Title" Grid.Column="1"/>
+
+            <Label Text="Contant : " HorizontalOptions="End" Grid.Row="1" VerticalOptions="Center"/>
+            <Editor x:Name="txt_Contant" Grid.Column="1" Grid.Row="1" AutoSize="TextChanges"/>
+        </Grid>
+        <Button Text="Publish" x:Name="btn_Publish" Clicked="btn_Publish_Clicked"/>
+    </VerticalStackLayout>
+    
+</ContentPage>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestReg.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Label Text="Try Registry on MAUI" HorizontalOptions="Center" FontSize="20"/>
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" ColumnSpacing="10" RowSpacing="10">
+                <Label Text="Value Name : "/>
+                <Entry Grid.Column="1" x:Name="txt_ValueName"/>
+
+                <Label Text="Value Data : " Grid.Row="1"/>
+                <Entry Grid.Column="1" x:Name="txt_ValueData" Grid.Row="1"/>
+            </Grid>
+
+            <Button Text="Create on Registry" x:Name="btn_Create" Clicked="Btn_Create_Clicked"/>
+            <Label HorizontalOptions="Center" FontSize="20" x:Name="lbl_Message"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

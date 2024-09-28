@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AsymmetricEncryption.MainPage" Loaded="ContentPage_Loaded">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+            
+            
+            <Frame>
+                <FlexLayout Direction="Column">
+                    <Label Text="Secret Text" FlexLayout.AlignSelf="Center"/>
+                    <Entry x:Name="txt_OriginalText" Margin="0,10,0,0" />
+                </FlexLayout>
+            </Frame>
+
+            <Frame>
+                <FlexLayout Direction="Column">
+                    <Label Text="Public Key" FlexLayout.AlignSelf="Center" FontSize="18"/>
+                    <Editor x:Name="txt_PublicKey" Margin="0,10,0,0" AutoSize="TextChanges"/>
+                </FlexLayout>
+            </Frame>
+
+            <Frame>
+                <FlexLayout Direction="Column">
+                    <Label Text="Private Key" FlexLayout.AlignSelf="Center" FontSize="18"/>
+                    <Editor x:Name="txt_PrivateKey" Margin="0,10,0,0" AutoSize="TextChanges"/>
+                </FlexLayout>
+            </Frame>
+
+            <Button Text="Encrypt Message" x:Name="btn_Encrypt" Clicked="btn_Encrypt_Clicked"/>
+
+            <Frame>
+                <FlexLayout Direction="Column">
+                    <Label Text="Encrypted Message" FlexLayout.AlignSelf="Center" FontSize="18"/>
+                    <Editor x:Name="txt_EncryptedMessage" AutoSize="TextChanges" Margin="0,10,0,0"/>
+                </FlexLayout>
+            </Frame>
+
+            <Button Text="Decrypt Message" x:Name="btn_Decrypt" Clicked="btn_Decrypt_Clicked"/>
+
+            <Frame>
+                <FlexLayout Direction="Column">
+                    <Label Text="Decrypt Message" FlexLayout.AlignSelf="Center" FontSize="18"/>
+                    <Editor x:Name="txt_DecryptedMessage" AutoSize="TextChanges" Margin="0,10,0,0"/>
+                </FlexLayout>
+            </Frame>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ControlsProperty.MainPage"
+             xmlns:local="clr-namespace:ControlsProperty">
+
+    
+    <VerticalStackLayout
+        Padding="30,0"
+        Spacing="25">
+
+        <ScrollView Orientation="Horizontal">
+            <local:HorsListOfProducts onBtnAddToCardCliked="HorsListOfProducts_onBtnAddToCardCliked"/>
+        </ScrollView>
+        <Label FontSize="25" FontAttributes="Bold" HorizontalOptions="Center" x:Name="lbl"/>
+    </VerticalStackLayout>
+    
+
+</ContentPage>

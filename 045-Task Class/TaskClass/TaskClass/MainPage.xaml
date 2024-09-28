@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TaskClass.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="15">
+
+            <Button Text="Start" Clicked="Button_Clicked"/>
+            
+            <Label HorizontalOptions="Center" FontSize="20" Text="lbl1" x:Name="lbl1"/>
+            <Label HorizontalOptions="Center" FontSize="20" Text="lbl2" x:Name="lbl2"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

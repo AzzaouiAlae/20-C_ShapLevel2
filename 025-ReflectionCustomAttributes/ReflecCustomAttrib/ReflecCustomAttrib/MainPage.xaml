@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReflecCustomAttrib.MainPage"
+             Loaded="ContentPage_Loaded">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*">
+                <Label Text="Class Attribute : " VerticalOptions="Center"/>
+                <Editor x:Name="txt_ClasAtt" Grid.Column="1" AutoSize="TextChanges"/>
+
+                <Label Text="method Attribute : " VerticalOptions="Center" Grid.Row="1"/>
+                <Editor x:Name="txt_MethodAtt" Grid.Column="1" Grid.Row="1" AutoSize="TextChanges"/>
+            </Grid>
+            
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

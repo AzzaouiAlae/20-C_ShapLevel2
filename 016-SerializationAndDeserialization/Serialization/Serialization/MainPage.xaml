@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Serialization.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="15">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto , *" ColumnSpacing="10" RowSpacing="15">
+                
+                <Label Text="Name : "/>
+                <Entry x:Name="txt_Name" Grid.Column="1"/>
+
+                <Label Text="Age : " Grid.Row="1"/>
+                <Entry x:Name="txt_Age" Grid.Column="1" Grid.Row="1"/>
+                
+            </Grid>
+
+            <Button Text="Save" x:Name="btn_Save" Clicked="btn_Save_Clicked"/>
+            <Button Text="Open" x:Name="btn_Open" Clicked="btn_Open_Clicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

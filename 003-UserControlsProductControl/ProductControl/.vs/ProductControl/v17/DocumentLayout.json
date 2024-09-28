@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\20-C# Level 2\\003-UserControlsProductControl\\ProductControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C397EA-DEA1-4E21-865B-74697935FDAE}|ProductControl\\ProductControl.csproj|d:\\source\\20-c# level 2\\003-usercontrolsproductcontrol\\productcontrol\\productcontrol\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C397EA-DEA1-4E21-865B-74697935FDAE}|ProductControl\\ProductControl.csproj|solutionrelative:productcontrol\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C397EA-DEA1-4E21-865B-74697935FDAE}|ProductControl\\ProductControl.csproj|d:\\source\\20-c# level 2\\003-usercontrolsproductcontrol\\productcontrol\\productcontrol\\ctrlproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88C397EA-DEA1-4E21-865B-74697935FDAE}|ProductControl\\ProductControl.csproj|solutionrelative:productcontrol\\ctrlproduct.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlProduct.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\003-UserControlsProductControl\\ProductControl\\ProductControl\\ctrlProduct.xaml",
+              "RelativeDocumentMoniker": "ProductControl\\ctrlProduct.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\003-UserControlsProductControl\\ProductControl\\ProductControl\\ctrlProduct.xaml",
+              "RelativeToolTip": "ProductControl\\ctrlProduct.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T17:28:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\source\\20-C# Level 2\\003-UserControlsProductControl\\ProductControl\\ProductControl\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ProductControl\\MainPage.xaml",
+              "ToolTip": "D:\\source\\20-C# Level 2\\003-UserControlsProductControl\\ProductControl\\ProductControl\\MainPage.xaml",
+              "RelativeToolTip": "ProductControl\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-07T16:28:51.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

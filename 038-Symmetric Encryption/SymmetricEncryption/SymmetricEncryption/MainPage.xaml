@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SymmetricEncryption.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Frame>
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Sensitive information" HorizontalOptions="Center" FontSize="15" FontAttributes="Bold"/>
+                    <Entry x:Name="txt_info"/>
+                    <Button Text="Encrypt information" x:Name="btn_Encrypt" Clicked="btn_Encrypt_Clicked"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame>
+                <Editor x:Name="txt_Encrypted" AutoSize="TextChanges"/>
+            </Frame>
+
+            <Frame>
+                <VerticalStackLayout Spacing="10">
+                    <Label Text="Decrypted information"/>
+                    <Entry x:Name="txt_DecryptedInfo"/>
+                    <Button Text="Decrypte information" x:Name="btn_Decrypte" Clicked="btn_Decrypte_Clicked"/>
+                </VerticalStackLayout>
+            </Frame>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

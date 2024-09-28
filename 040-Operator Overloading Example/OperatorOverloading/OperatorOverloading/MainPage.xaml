@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="OperatorOverloading.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Frame>
+                <VerticalStackLayout>
+                    <Label Text="Point 1" HorizontalOptions="Center" Margin="0,0,0,5"/>
+                    <FlexLayout Direction="Row" JustifyContent="Center">
+                        <Label Text="X : " VerticalOptions="Center" Margin="0,0,10,0" />
+                        <Entry x:Name="txt_x1" TextChanged="txt_x1_TextChanged"/>
+
+                        <Label Text="Y : " VerticalOptions="Center" Margin="15,0,10,0"/>
+                        <Entry x:Name="txt_y1" TextChanged="txt_y1_TextChanged"/>
+                    </FlexLayout>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Frame>
+                <VerticalStackLayout>
+                    <Label Text="Point 2" HorizontalOptions="Center" Margin="0,0,0,5"/>
+                    <FlexLayout Direction="Row" JustifyContent="Center">
+                        <Label Text="X : " VerticalOptions="Center" Margin="0,0,10,0"/>
+                        <Entry x:Name="txt_x2" TextChanged="txt_x2_TextChanged"/>
+
+                        <Label Text="Y : " VerticalOptions="Center" Margin="15,0,10,0"/>
+                        <Entry x:Name="txt_y2" TextChanged="txt_y2_TextChanged"/>
+                    </FlexLayout>
+                </VerticalStackLayout>
+            </Frame>
+
+            <Label Text="Operation" />
+            <Picker x:Name="pik_Operation">
+                <Picker.Items>
+                    <x:String>+</x:String>
+                    <x:String>-</x:String>
+                    <x:String>*</x:String>
+                    <x:String>/</x:String>
+                </Picker.Items>
+            </Picker>
+            <Button Text="Calculate" x:Name="btn_Calc" Clicked="btn_Calc_Clicked"/>
+
+            <FlexLayout Direction="Column">
+                <Label Text="Result" HorizontalOptions="Center" Margin="0,0,0,5"/>
+                <Entry x:Name="txt_Result" HorizontalTextAlignment="Center" IsReadOnly="True"/>
+            </FlexLayout>
+            
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

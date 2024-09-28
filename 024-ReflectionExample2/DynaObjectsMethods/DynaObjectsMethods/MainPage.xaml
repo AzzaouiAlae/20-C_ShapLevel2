@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DynaObjectsMethods.MainPage"
+             Loaded="ContentPage_Loaded">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,20"
+            Spacing="25">
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" >
+                <Label Text="Type Name :" VerticalOptions="Center"/>
+                <Entry x:Name="txt_TypeName" Grid.Column="1"/>
+
+                <Label Text="Full Name :" Grid.Row="1" VerticalOptions="Center"/>
+                <Entry x:Name="txt_FullName" Grid.Column="1" Grid.Row="1"/>
+            </Grid>
+
+            <VerticalStackLayout MaximumHeightRequest="200">
+                <Label Text="Properties" HorizontalOptions="Center"/>
+                <ScrollView>
+                    <Editor AutoSize="TextChanges" x:Name="txt_Properties"/>
+                </ScrollView>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout MaximumHeightRequest="200">
+                <Label Text="Methods" HorizontalOptions="Center"/>
+                <ScrollView>
+                    <Editor AutoSize="TextChanges" x:Name="txt_Methods"/>
+                </ScrollView>
+            </VerticalStackLayout>
+
+            <Grid RowDefinitions="*,*" ColumnDefinitions="Auto,*" >
+                <Label Text="Property1 :" VerticalOptions="Center"/>
+                <Entry x:Name="txt_Property1" Grid.Column="1"/>                
+            </Grid>
+
+            <VerticalStackLayout MaximumHeightRequest="200">
+                <Label Text="Invoke Methods1 :" HorizontalOptions="Center"/>
+                <ScrollView>
+                    <Editor AutoSize="TextChanges" x:Name="txt_InvokeMethod1"/>
+                </ScrollView>
+            </VerticalStackLayout>
+
+            <VerticalStackLayout MaximumHeightRequest="200">
+                <Label Text="Invoke Methods2 :" HorizontalOptions="Center"/>
+                <ScrollView>
+                    <Editor AutoSize="TextChanges" x:Name="txt_InvokeMethod2"/>
+                </ScrollView>
+            </VerticalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
